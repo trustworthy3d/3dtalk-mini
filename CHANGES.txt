@@ -1,0 +1,19 @@
+Change in version 0.91.3 (28 Sep, 2015)
+
+# Improvements
+
+* add the configure file about mini
+
+---------------------------------------------------------------------------------
+Change in version 0.91.2 (22 May, 2015)
+
+# New Features
+
+* add read and write serial number to EEPROM
+
+---------------------------------------------------------------------------------
+Change in version 0.91.1 (20 May, 2015)
+
+# New Features
+
+* add continue print when last print is error
